@@ -3,8 +3,8 @@
 
 ## Student data
 
-Name: 'YOUR NAME HERE'
-Email: 'YOUR EMAIL HERE'
+Name: Emma Ricci-De Lucca
+Email: emma.g.ricci-de.lucca.th@dartmouth.edu
 
 Carefully follow the instructions below to setup your assignment repository.
 
@@ -57,7 +57,7 @@ git add README.md
 git commit -m "Adjust README.md"
 git push
 ```
-You should now be able to see your name online on your private repository: https://github.com/ENGS-96-summer25/engs96-'Your_Git_Username'
+You should now be able to see your name online on your private repository: https://github.com/ENGS-96-summer25/assignment1-emmaricci
 
 ### Workflow
 In general, you should use Git to commit your edits as often as possible. This will help you with backtracking bugs and also serve as a backup mechanism.
